@@ -1,0 +1,73 @@
+
+
+body {
+    /* background-color:  #333333; */
+
+}
+
+.container {
+    text-align: center;
+}
+
+.progress-container {
+    /* background-color: blue; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.progress {
+    
+}
+.active{
+    background-color: aqua;
+    padding: 15px;
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+    border: 1px solid blue;
+    /* background: transparent; */
+}
+
+.circle {
+
+    padding: 15px;
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+    border: 1px solid blue;
+    /* background: transparent; */
+
+}
+.linea{
+    /* background-color: aqua; */
+    
+}
+
+.btnContenedor{
+    display: flex;
+    justify-content: center;
+    flex-direction:row;
+}
+.btn {
+    flex-direction: column;
+    background-color: brown;
+    cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
